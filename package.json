@@ -1,0 +1,6 @@
+{
+  "description": "",
+  "devDependencies": {
+    "cypress": "^4.12.1"
+  }
+}
